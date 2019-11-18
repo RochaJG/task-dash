@@ -1,5 +1,7 @@
 import React from 'react'
 
+import {Container} from './styles'
+
 export default () => {
-  return <h1>home</h1>
+  return <Container>home</Container>
 }
